@@ -10,3 +10,6 @@ This is my Day 1 repo.
 1. Installed Git
 2. Created my first repo
 3. Wrote this README
+
+##Day 2 Progress
+Learning the basics of git status, add, commit.
